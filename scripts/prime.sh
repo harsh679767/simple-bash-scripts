@@ -12,4 +12,6 @@ if [ $c -eq 2 ]; then
 	echo "Prime"
 else
 	echo "Not Prime"
+	echo "Not Prime number"
+
 fi
